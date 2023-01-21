@@ -1,5 +1,5 @@
 body{
-  font-family: sans-serif;
+  font-family: verdana;
   font-size:110%;
   background-color: #FCF7F8;
 }
@@ -8,8 +8,18 @@ header {
   background-color: #61638a;
   text-align: center;
 }
+#heading{font-family: 'verdana';
+  font-size: 120%;
+}
 
 footer {
   background-color: #61638a;
   text-align: center;
+}
+#sidebar{
+  width:13%;
+  background-color:rgb(189, 189, 216)
+}
+.nav-menu{
+  list-style-type: none;
 }
