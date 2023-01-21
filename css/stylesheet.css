@@ -5,10 +5,11 @@ body{
 }
 
 header {
+  background-color: #61638a;
   text-align: center;
 }
 
 footer {
-  background-color: #343330;
+  background-color: #61638a;
   text-align: center;
 }
